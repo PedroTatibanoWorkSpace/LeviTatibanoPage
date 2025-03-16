@@ -17,4 +17,4 @@ Uma landing page moderna construída com Next.js, projetada para apresentar meu 
 
 - Pedro Tatibano
     **Email**: pedrotatibano1900@gmail.com
-    **Site**: https://www.levitatibano.com.br/
+  
